@@ -1,0 +1,8 @@
+﻿- header: Featured Projects
+  projects:
+    - name: jekylldark
+      url: https://github.com/sutterj/jekylldark
+- header: Posts
+- header: Content
+  content:
+    - item: Content

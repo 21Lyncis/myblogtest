@@ -1,0 +1,8 @@
+﻿- header: Title
+- header: Other Content
+  content: Content
+- header: Connect
+  social:
+    - title: Discord
+      url: https://www.google.com
+      image: discord
